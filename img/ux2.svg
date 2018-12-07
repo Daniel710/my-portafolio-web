@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 151 151.1" style="enable-background:new 0 0 151 151.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:none;stroke:#FCFCFC;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{fill:#F5F7F7;}
+	.st3{fill:none;stroke:#4D1CC4;stroke-width:3.68;stroke-linecap:round;stroke-linejoin:round;}
+	.st4{fill:none;stroke:#000000;stroke-miterlimit:10;stroke-opacity:0;}
+</style>
+<title>ux2</title>
+<g id="Capa_2_1_">
+	<g id="Capa_1-2">
+		<g>
+			<defs>
+				<rect id="SVGID_1_" x="0.5" y="0.9" width="150" height="150"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st0">
+				<path class="st1" d="M74.8,58.9l34,17c2.9,1.4,4.7,4.4,4.7,7.6V124c0,3.2-1.8,6.2-4.7,7.6l-34,17c-2.4,1.2-5.2,1.2-7.6,0l-34-17
+					c-2.9-1.5-4.7-4.4-4.7-7.7V83.5c0-3.2,1.8-6.2,4.7-7.6l34-17C69.6,57.7,72.4,57.7,74.8,58.9z"/>
+				<polyline class="st1" points="29.9,78.9 71,99.5 112.1,78.9 				"/>
+				<line class="st1" x1="71" y1="149.5" x2="71" y2="99.5"/>
+				<line class="st1" x1="49.8" y1="67.6" x2="92.2" y2="88.9"/>
+				<circle class="st2" cx="93.5" cy="46.4" r="44.4"/>
+				<path class="st3" d="M75.5,66.7v-4.5c0-5,4-9,9-9h18c5,0,9,4,9,9v4.5"/>
+				<circle class="st3" cx="93.5" cy="35.2" r="9"/>
+			</g>
+		</g>
+		<rect x="0.5" y="0.5" class="st4" width="150" height="150"/>
+	</g>
+</g>
+</svg>
